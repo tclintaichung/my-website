@@ -9,7 +9,7 @@
 2.條列重點，隨時上網查詢詳細內容。
 # LibreOffice Impress
 1.編輯文字檔案odt。
-2.ctrl+1：首標
+2.ctrl+1：首標。
 3.ctrl+2：次標。
 4.send outline to presentation。
 5.slide -> change slide master。
